@@ -1,0 +1,4 @@
+sphinx>=1.4
+ipykernel
+nbsphinx>=0.4
+nbclean
