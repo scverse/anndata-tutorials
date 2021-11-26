@@ -33,9 +33,8 @@ html_show_sphinx = False
 
 # -- Strip output ----------------------------------------------
 
-import nbclean, glob
-
-for filename in glob.glob('**/*.ipynb', recursive=True):
-    ntbk = nbclean.NotebookCleaner(filename)
-    ntbk.clear('stderr')
-    ntbk.save(filename)
+# import nbclean, glob
+# for filename in glob.glob('**/*.ipynb', recursive=True):
+#     ntbk = nbclean.NotebookCleaner(filename)
+#     ntbk.clear('stderr')
+#     ntbk.save(filename)
