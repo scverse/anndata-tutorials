@@ -1,6 +1,6 @@
 from datetime import datetime
 project = 'anndata'
-author = 'andata developers'
+author = 'anndata developers'
 copyright = f'{datetime.now():%Y}, {author}'
 
 version = ''
