@@ -7,5 +7,4 @@
    getting-started
    AnnLoader
    AnnCollection
-   pytorch-multi-file   
-   sparse-matrices-with-h5py
+   pytorch-multi-file
