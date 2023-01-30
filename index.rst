@@ -8,3 +8,4 @@
    annloader
    anncollection
    anncollection-annloader
+   anndata_dask_array
