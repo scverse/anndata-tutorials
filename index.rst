@@ -9,3 +9,4 @@
    anncollection
    anncollection-annloader
    anndata_dask_array
+   awkward-arrays
