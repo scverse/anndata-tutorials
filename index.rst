@@ -8,5 +8,6 @@
    annloader
    anncollection
    anncollection-annloader
+   anndataset-demo
    anndata_dask_array
    awkward-arrays
