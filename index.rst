@@ -5,8 +5,7 @@
    :maxdepth: 1
 
    getting-started
-   annloader
    anncollection
-   anncollection-annloader
+   annbatch
    anndata_dask_array
    awkward-arrays
