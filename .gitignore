@@ -108,3 +108,6 @@ ENV/
 *.h5ad
 mydask.png
 *.zarr
+
+# Concat on disk tutorial
+tmpdata
